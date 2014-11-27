@@ -1,5 +1,5 @@
-Nesouri - A Nintendo Music Metadata Database
-============================================
+Nesouri
+=======
 
 A structured database of metadata around NES/FC/FDS game music.
 
