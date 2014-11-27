@@ -1,0 +1,34 @@
+Nesouri - A Nintendo Music Metadata Database
+============================================
+
+A structured database of metadata around NES/FC/FDS game music.
+
+Content of this repository
+--------------------------
+ * nesouri.sql - the SQLite 3 dump
+ * doc/ - random text files
+ * scripts/ - crude hacks used to scavenge metadata from the interwebs
+
+Plans
+-----
+ * URL to...
+   * http://www.vgmpf.com
+   * http://www.gamefaqs.com
+   * http://bootleggames.wikia.com
+   * http://strategywiki.org
+   * Coverart from some stable point that easily matches the corpus
+ * A lot of metadata for artists, mostly from vgmpf, but some from wikipedia
+ * A lot of metadata for publishers and developers
+ * Maybe introduce release groups to group all the releases for a particular
+   game under, to cut down on the top-level list size. Metadata urls often
+   matches all releases so it makes sense in all sorts of ways.
+ * It's common that artists use aliases when contributed in games. A alias
+   to artist entry table must be added, perhaps an optional column in the
+   authorship table.
+ * Add release type information, EU/NA/JP/U/Unreleased/Unlicensed.
+
+License
+-------
+The database composition is free to use under the GNU Free Documentation License,
+for additional details see COPYING.GFDL. The scripts are in the repository as
+a form of war log, to show what kind of madness that helped create this database.
