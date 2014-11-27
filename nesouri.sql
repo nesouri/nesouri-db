@@ -5980,7 +5980,7 @@ INSERT INTO "games" VALUES(148,'Baseball Fighter (1991-07-05)(Graphic Research)(
 INSERT INTO "games" VALUES(149,'Baseball Simulator 1.000 [Choujin - Ultra Baseball] (1989-10-27)(Culture Brain).nsf',128,1,'Baseball Simulator 1.000',1989,'1989-10-27','/wiki/Baseball_Simulator_1.000');
 INSERT INTO "games" VALUES(150,'Baseball Stars [Baseball Star - Mezase Sankanou] (1989-05-19)(SNK).nsf',13,1,'Baseball Stars',1989,'1989-05-19','/wiki/Baseball_Stars');
 INSERT INTO "games" VALUES(151,'Baseball Stars II (1992-07)(SNK)(Romstar).nsf',12,1,'Baseball Stars II',1992,'1992-07','/wiki/Baseball_Stars_2');
-INSERT INTO "games" VALUES(152,'Bases Loaded 2 - Second Season [Moero!! Pro Yakyuu ''88 - Kettei Ban] (1988-08-10)(Tose)(Jaleco).nsf',35,1,'Bases Loaded 2',1988,'1988-08-10','Bases Loaded 2 - Second Season');
+INSERT INTO "games" VALUES(152,'Bases Loaded 2 - Second Season [Moero!! Pro Yakyuu ''88 - Kettei Ban] (1988-08-10)(Tose)(Jaleco).nsf',35,1,'Bases Loaded 2',1988,'1988-08-10','/wiki/Bases_Loaded_II:_Second_Season');
 INSERT INTO "games" VALUES(153,'Bases Loaded 2 - Second Season JP [Moero!! Pro Yakyuu ''88 - Kettei Ban] (1988-08-10)(Tose)(Jaleco).nsf',33,1,'Moe Pro ''88 - Kettei Ban',1988,'1988-08-10','/wiki/Bases_Loaded_II:_Second_Season');
 INSERT INTO "games" VALUES(154,'Bases Loaded 3 [Moe Pro! ''90 - Kandou-hen] (1990-07-27)(Tose)(Jaleco).nsf',48,1,'Bases Loaded 3',1990,'1990-07-27','/wiki/Bases_Loaded_3');
 INSERT INTO "games" VALUES(155,'Bases Loaded 4 [Moe Pro! - Saikyou-hen] (1991-11-22)(Tose)(Jaleco).nsf',48,1,'Bases Loaded 4',1991,'1991-11-22','/wiki/Bases_Loaded_4');
@@ -6025,14 +6025,14 @@ INSERT INTO "games" VALUES(193,'Bikkuriman World - Gekitou Sei Senshi (1990-07-2
 INSERT INTO "games" VALUES(194,'Bill & Ted''s Excellent Video Game Adventure (1991-08)(Rocket Science)(LJN).nsf',13,1,'Bill & Ted''s Excellent Video Game Adventure',1991,'1991-08','/wiki/Bill_%26_Ted%27s_Excellent_Video_Game_Adventure');
 INSERT INTO "games" VALUES(195,'Bill Elliott''s NASCAR Challenge (1991-04)(Distinctive)(Konami).nsf',5,1,'Bill Elliott''s NASCAR Challenge',1991,'1991-04','/wiki/Bill_Elliott%27s_NASCAR_Challenge');
 INSERT INTO "games" VALUES(196,'Binary Land (1985-12-19)(Hudson).nsf',6,1,'Binary Land',1985,'1985-12-19','/wiki/Binary_Land');
-INSERT INTO "games" VALUES(197,'Bio Force Ape (Prototype) (1991)(Seta).nsf',11,1,'Bio Force Ape (Prototype)',1991,'1991','');
+INSERT INTO "games" VALUES(197,'Bio Force Ape (Prototype) (1991)(Seta).nsf',11,1,'Bio Force Ape (Prototype)',1991,'1991',NULL);
 INSERT INTO "games" VALUES(198,'Bio Miracle Bokutte Upa (FDS)(1988-04-22)(Konami).nsf',56,1,'Bio Miracle Bokutte UPA',1988,'1988-04-22','/wiki/Bio_Miracle_Bokutte_Upa');
 INSERT INTO "games" VALUES(199,'Bio Senshi Dan - Increaser tono Tatakai (1987-09-22)(Atlus)(Jaleco).nsf',50,1,'Bio-Senshi Dan: Increaser to no Tatakai',1987,'1987-09-22','/wiki/Bio_Senshi_Dan:_Increaser_to_no_Tatakai');
 INSERT INTO "games" VALUES(200,'Bionic Commando [Hitler no Fukkatsu - Top Secret] (1988-07-20)(Capcom).nsf',20,1,'Bionic Commando',1988,'1988-07-20','/wiki/Bionic_Commando_(Nintendo_Entertainment_System)');
 INSERT INTO "games" VALUES(201,'Bird Week (1986-06-03)(Lenar)(Toemiland).nsf',18,1,'Bird Week',1986,'1986-06-03','/wiki/Bird_Week');
 INSERT INTO "games" VALUES(202,'Bishoujo Control (FDS)(19xx)(Wild).nsf',5,1,'Bishōjo Control',NULL,NULL,NULL);
 INSERT INTO "games" VALUES(203,'Bishoujo Hanafuda Club Vol. 1 - Oichokabu-hen (FDS)(19xx)(Super PIG).nsf',4,1,'Bishoujo Hanafuda Club Vol.1: Oichokabu Hen',NULL,NULL,NULL);
-INSERT INTO "games" VALUES(204,'Bishoujo Hanafuda Club Vol. 2 - Koikoi Bakappana-hen (FDS)(19xx)(Super PIG).nsf',8,1,'Bishoujo Hanafuda Club Vol. 2: Koikoi Bakappana-hen',NULL,NULL,'');
+INSERT INTO "games" VALUES(204,'Bishoujo Hanafuda Club Vol. 2 - Koikoi Bakappana-hen (FDS)(19xx)(Super PIG).nsf',8,1,'Bishoujo Hanafuda Club Vol. 2: Koikoi Bakappana-hen',NULL,NULL,NULL);
 INSERT INTO "games" VALUES(205,'Bishoujo Mahjong Club (FDS)(19xx)(Super PIG)(Mimi).nsf',12,1,'Bishojou Mahjong Club',NULL,NULL,NULL);
 INSERT INTO "games" VALUES(206,'Bishoujo Sexy Derby (FDS)(1988)(Super PIG)(Hacker International).nsf',4,1,'Bishoujo Sexy Derby',1988,'1988',NULL);
 INSERT INTO "games" VALUES(207,'Bishoujo SF Alien Battle (FDS)(19xx)(Hacker International).nsf',3,1,'Bishoujo SF Alien Battle',NULL,NULL,NULL);
@@ -6280,7 +6280,7 @@ INSERT INTO "games" VALUES(448,'Dragon Ball Z - Gekitou Tenkaichi Budou Kai (199
 INSERT INTO "games" VALUES(449,'Dragon Ball Z - Kyoushuu! Saiyajin (1990-10-27)(Tose)(Bandai).nsf',97,1,'Dragon Ball Z: Kyôshū! Saiyan',1990,'1990-10-27','/wiki/List_of_Dragon_Ball_video_games');
 INSERT INTO "games" VALUES(450,'Dragon Ball Z 3 (19xx)(Copyright).nsf',8,1,'Dragon Ball Z 3',NULL,NULL,NULL);
 INSERT INTO "games" VALUES(451,'Dragon Ball Z Gaiden - Saiyajin Zetsumetsu Keikaku (1993-08-06)(Tose)(Bandai).nsf',70,1,'Dragon Ball Z Gaiden: Saiyajin Zetsumetsu Keikaku',1993,'1993-08-06','/wiki/Dragon_Ball_Z_Side_Story:_Plan_to_Eradicate_the_Saiyans');
-INSERT INTO "games" VALUES(452,'Dragon Ball Z II - Gekishin Freeza!! (1991-08-10)(Tose)(Bandai).nsf',124,1,'DBZ 2: Gekishin Freeza!!',1991,'1991-08-10','/wiki/Dragon_Ball_Z_II:_Gekigami_Freeza');
+INSERT INTO "games" VALUES(452,'Dragon Ball Z II - Gekishin Freeza!! (1991-08-10)(Tose)(Bandai).nsf',124,1,'Dragon Ball Z II: Gekigami Freeza!!',1991,'1991-08-10','/wiki/Dragon_Ball_Z_II:_Gekigami_Freeza');
 INSERT INTO "games" VALUES(453,'Dragon Ball Z III - Ressen Jinzou Ningen (1992-08-07)(Tose)(Bandai).nsf',60,1,'DBZ 3: Ressen Jinzou Ningen',1992,'1992-08-07','/wiki/Dragon_Ball_Z_III:_Ressen_Jinzou_Ningen');
 INSERT INTO "games" VALUES(454,'Dragon Buster (1987-01-07)(Namco)(Tose)(Namco).nsf',51,1,'Dragon Buster',1987,'1987-01-07','/wiki/Dragon_Buster');
 INSERT INTO "games" VALUES(455,'Dragon Buster 2 - Yami no Fuuin (1989-04-27)(Tose)(Namco).nsf',77,1,'Dragon Buster II: Yami no Fuuin',1989,'1989-04-27',NULL);
@@ -7565,7 +7565,7 @@ INSERT INTO "games" VALUES(1733,'Trolls in Crazyland, The [Doki! Doki! Yuuenchi 
 INSERT INTO "games" VALUES(1734,'Tsuppari Oozumou (1987-09-18)(-)(Tecmo).nsf',25,1,'Tsuppari Oozumou',1987,'1987-09-18','/wiki/Tsuppari_Oozumou');
 INSERT INTO "games" VALUES(1735,'Tsuppari Wars (1991-06-28)(-)(Sammy).nsf',42,1,'Tsuppari Wars',1991,'1991-06-28','/wiki/Tsuppari_Wars');
 INSERT INTO "games" VALUES(1736,'Tsuri Kichi Sanpei - Blue Marlin-hen (1988-03-17)(-)(Victor).nsf',18,1,'Tsuri Kichi Sanpei - BMH',1988,'1988-03-17','/wiki/Tsurikichi_Sanpei');
-INSERT INTO "games" VALUES(1737,'Tsuru Pika Hagemaru - Mezase! Tsuru Seko no Akashi (1991-12-13)(-)(Jaleco).nsf',18,1,'Tsuru Pika Hagemaru',1991,'1991-12-13','Tsurupika Hagemaru: Mezase! Tsuruseko no Akashi');
+INSERT INTO "games" VALUES(1737,'Tsuru Pika Hagemaru - Mezase! Tsuru Seko no Akashi (1991-12-13)(-)(Jaleco).nsf',18,1,'Tsurupika Hagemaru: Mezase! Tsuruseko no Akashi',1991,'1991-12-13',NULL);
 INSERT INTO "games" VALUES(1738,'Turpasauna 2006 Invitation.nsf',1,1,'Turpasauna 2006 Invitation',NULL,NULL,NULL);
 INSERT INTO "games" VALUES(1739,'Twin Cobra [Kyuukyoku Tiger] (1989-08-04)(Toaplan)(Micronics)(CBS).nsf',21,1,'Twin Cobra',1989,'1989-08-04','/wiki/Twin_Cobra');
 INSERT INTO "games" VALUES(1740,'Twin Cobra JP [Kyuukyoku Tiger] (1989-08-04)(Toaplan)(Micronics)(CBS).nsf',22,1,'Kyuukyoku Tiger',1989,'1989-08-04','/wiki/Kyuukyoku_Tiger');
