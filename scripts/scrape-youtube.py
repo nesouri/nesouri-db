@@ -52,7 +52,8 @@ auth = authenticate()
 yt = youtube_service(auth)
 
 data = []
-for user in ("sargakazi", "Wiiguy309", "grad1u52", "cubex55"):
+#for user in ("sargakazi", "Wiiguy309", "grad1u52", "cubex55"):
+for user in ("sargakazi", "Wiiguy309"):
   data += uploads_by_user(yt, user)
 
 with open("youtube-metadata.json", "w") as fd:
